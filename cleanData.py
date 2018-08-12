@@ -99,3 +99,11 @@ step4 Plot the Game based on the rating
 rating_language =  list(zip(data_frame['rating_count_tot'],data_frame['price']))
 hierarchical_clusting(rating_language)
 
+
+
+# Reference
+#adityapatil, Visual Analysis of Apps on AppleStore, Kaggle, Retrieved from
+#https://www.kaggle.com/adityapatil673/visual-analysis-of-apps-on-applestore/notebook
+
+#Jörn,SciPy Hierarchical Clustering and Dendrogram Tutorial,Jörn's Blog ,Retrieved from
+#https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
